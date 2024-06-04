@@ -1,0 +1,28 @@
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.exe
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\refint\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\I Might Need This\Codigo\C#\FormulaFin\FormulaFin\obj\Debug\net8.0\ref\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.exe
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\bin\Debug\net8.0\FormulaFin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\refint\FormulaFin.dll
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\FormulaFin.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\FormulaFin\FormulaFin\obj\Debug\net8.0\ref\FormulaFin.dll
